@@ -27,6 +27,6 @@ public class MainPageTests extends TestBase{
         System.out.println(slogan.getText());
         Assert.assertEquals(slogan.getText(), "CheapTrip.Pay less, travel more");
 
-
+ 
     }
 }
